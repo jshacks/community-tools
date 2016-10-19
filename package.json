@@ -1,0 +1,17 @@
+{
+  "name": "githubusers",
+  "version": "1.0.0",
+  "description": "Simple tools for managing the digital community",
+  "main": "getEmails.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Constantin Dumitrescu <dum.constantin@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "kefir": "^3.6.0",
+    "mailchimp-v3": "^1.0.2",
+    "octonode": "^0.7.6",
+    "ramda": "^0.22.1"
+  }
+}
